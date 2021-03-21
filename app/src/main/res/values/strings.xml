@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">carhouse</string>
+    <string name="app_title">CarHouse</string>
+    <string name="añadir_coche">Añadir Coche</string>
+    <string name="eliminar_coche">Eliminar Coche</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="switch_preference">Mostrar solo los coches no vendidos</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="año">Año</string>
+    <string name="km">Km</string>
+    <string name="c.c.">C.C.</string>
+    <string name="c.v.">C.V.</string>
+    <string name="precio">Precio</string>
+    <string name="modelo_coche">Modelo de coche</string>
+    <string name="año_matriculacion">Año de matriculación</string>
+    <string name="kilometraje">Kilometraje</string>
+    <string name="cilindrada">Cilindrada (cc)</string>
+    <string name="potencia">Potencia (cv)</string>
+    <string name="casilla">Marca la casilla si el coche está vendido</string>
+    <string name="guardar">Guardar</string>
+
+    <string-array name="marcas">
+        <item>Abarth</item>
+        <item>Alfa Romeo</item>
+        <item>Aro</item>
+        <item>Asia</item>
+        <item>Asia Motors</item>
+        <item>Aston Martin</item>
+        <item>Audi</item>
+        <item>Austin</item>
+        <item>Auverland</item>
+        <item>Bentley</item>
+        <item>Bertone</item>
+        <item>Bmw</item>
+        <item>Cadillac</item>
+        <item>Chevrolet</item>
+        <item>Chrysler</item>
+        <item>Citroen</item>
+        <item>Corvette</item>
+        <item>Dacia</item>
+        <item>Daewoo</item>
+        <item>Daf</item>
+        <item>Daihatsu</item>
+        <item>Daimler</item>
+        <item>Dodge</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Galloper</item>
+        <item>Gmc</item>
+        <item>Honda</item>
+        <item>Hummer</item>
+        <item>Hyundai</item>
+        <item>Infiniti</item>
+        <item>Innocenti</item>
+        <item>Isuzu</item>
+        <item>Iveco</item>
+        <item>Iveco-pegaso</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Lada</item>
+        <item>Lamborghini</item>
+        <item>Lancia</item>
+        <item>Land-rover</item>
+        <item>Ldv</item>
+        <item>Lexus</item>
+        <item>Lotus</item>
+        <item>Mahindra</item>
+        <item>Maserati</item>
+        <item>Maybach</item>
+        <item>Mazda</item>
+        <item>Mercedes-benz</item>
+        <item>Mg</item>
+        <item>Mini</item>
+        <item>Mitsubishi</item>
+        <item>Morgan</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Pontiac</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Rolls-royce</item>
+        <item>Rover</item>
+        <item>Saab</item>
+        <item>Santana</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Smart</item>
+        <item>Ssangyong</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Talbot</item>
+        <item>Tata</item>
+        <item>Toyota</item>
+        <item>Umm</item>
+        <item>Vaz</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+        <item>Wartburg</item>
+    </string-array>
+
+</resources>
